@@ -1,5 +1,6 @@
 {
     "name": "faysal0x1/blog-module",
+    "version": "1.0.0",
     "description": "Blog management module for Laravel with categories, tags, comments, and likes.",
     "type": "laravel-module",
     "license": "MIT",
